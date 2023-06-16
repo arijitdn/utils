@@ -49,3 +49,8 @@ const { Banner } = require("@arijitthedev/utils")
 const banner = new Banner()
 banner.create("N A M E")
 ```
+
+### Developed by:
+
+Arijit Debnath
+- https://arijitdn.com
