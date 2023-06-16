@@ -1,0 +1,22 @@
+{
+  "name": "@arijitthedev/utils",
+  "version": "1.0.0",
+  "description": "A utility package for Developers which will help them in ease of development.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ArijitTheDev",
+  "license": "MIT",
+  "keywords": ["discord", "discord.js", "console", "development", "utils", "utility"],
+  "dependencies": {
+    "colors": "latest",
+    "figlet": "latest",
+    "gradient-string": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArijitTheDev/utils"
+  },
+  "homepage": "https://github.com/ArijitTheDev/utils"
+}
