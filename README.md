@@ -4,7 +4,6 @@
 
 A simple, lightweight package made for Discord.js Devs for ease of Development.
 
-[![GitHub](https://img.shields.io/github/license/ArijitTheDev/utils)](https://github.com/ArijitTheDev/utils/blob/main/LICENSE)
 [![npm](https://img.shields.io/npm/v/@arijitthedev/utils?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/@arijitthedev/utils)
 
 </div>
